@@ -8,10 +8,12 @@
 ____
 ### Мои проекты:
 - Агрегатор строительных материалов: сайт по поиску строительных услуг
-- [Код](https://github.com/AbuYas7/aggregator-front)
+- [Код(Frontend)](https://github.com/AbuYas7/aggregator-front)
+- [Код(Backend)](https://github.com/AbuYas7/aggregator-backend)
  -------------------------------------------------------
 - Yedoo: сервис доставки еды. Ресторан-со своим меню, курьер-доставщик заказа на еду, клиент-заказчик еды.
-- [Код](https://github.com/AbuYas7/yedoo-frontend-1)
+- [Код(Frontend)](https://github.com/AbuYas7/yedoo-frontend-1)
+- [Код(Backend)](https://github.com/AbuYas7/yedoo-backend)
 ----------------------------------------------------------
 ____
 
