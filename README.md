@@ -15,7 +15,6 @@ ____
 - [Код Frontend](https://github.com/AbuYas7/yedoo-frontend-1)
 - [Код Backend](https://github.com/AbuYas7/yedoo-backend)
 ----------------------------------------------------------
-____
 
 ### Связаться:
 
