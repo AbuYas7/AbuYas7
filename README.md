@@ -18,7 +18,7 @@ ____
 
 ### Связаться:
 
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/gaitukaev_yas)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/https:/yas7_in)
 ____
 
 <details>
